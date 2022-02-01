@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @buradia
 - 👀 I’m interested in ..... Java and Cybersecurity
 - 🌱 I’m currently learning ...C# and .Net Framework
-- 💞️ I’m looking to collaborate on ...... Any Technological Topic
+- 💞️ I’m looking to collaborate on ...... 
 - 📫 How to reach me ...... buradianarinder@gmail.com
 
 <!---
